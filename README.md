@@ -1,6 +1,6 @@
 ## Project Title
 
-### Income Statement Analysis—FP&A
+### Financial Statement Analysis
 
 
 [![PDF Preview](images/Preview.png)](PDF/Income-Statement-Analysis-FP&A-P1.pdf) 
