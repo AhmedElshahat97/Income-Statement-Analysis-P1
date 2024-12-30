@@ -3,7 +3,7 @@
 ### Income Statement Analysis—FP&A
 
 
-![PDF Preview](images/Preview.png)](PDF's/Income Statement Analysis_FP&A_P1.pdf) 
+![PDF Preview](images/Preview.png)](PDF's/Income-Statement-Analysis-FP&A-P1.pdf) 
 
 
 ## Project Objectives
